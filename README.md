@@ -1,12 +1,12 @@
-## <h1>Opa! Me chamo Jonathas Nóbrega.</h1>
+<h1>Opa! Me chamo Jonathas Nóbrega.</h1>
 
 <h3>- 📝 Procuro lugares onde possa aprimorar minhas habilidades de programação <br>
 - 🌱 Estou aprendendo Python, JS e GScript</h3>
 
 <div>
   <a href="https://github.com/JohnnyStalker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyStalker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyStalker&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" width="auto" src="https://github-readme-stats.vercel.app/api?username=JohnnyStalker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyStalker&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
