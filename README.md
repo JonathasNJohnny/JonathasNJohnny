@@ -1,7 +1,7 @@
-## Opa! Me chamo Jonathas Nóbrega.
+## <h1>Opa! Me chamo Jonathas Nóbrega.</h1>
 
-- 📝 Procuro lugares onde possa aprimorar minhas habilidades de programação
-- 🌱 Estou aprendendo Python, JS e GScript
+<h3>- 📝 Procuro lugares onde possa aprimorar minhas habilidades de programação <br>
+- 🌱 Estou aprendendo Python, JS e GScript</h3>
 
 <div>
   <a href="https://github.com/JohnnyStalker">
