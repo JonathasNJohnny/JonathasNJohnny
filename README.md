@@ -1,7 +1,6 @@
 <h1>Opa! Me chamo Jonathas Nóbrega.</h1>
 
-<h3>- 📝 Procuro lugares onde possa aprimorar minhas habilidades de programação <br>
-- 🌱 Estou aprendendo Python, JS e GDScript</h3>
+<h3>- 📝 Procuro lugares onde possa aprimorar minhas habilidades de programação <br></h3>
 
 <div>
   <a href="https://github.com/JonathasNJohnny">
