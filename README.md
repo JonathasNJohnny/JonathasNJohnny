@@ -11,12 +11,14 @@
 ##
   
  <div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="45" width="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" height="40" width="40" src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" height="40" width="40" src="https://docs.zeet.co/assets/images/flask-a3319b33492c2abbf2abfc0403064405.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
    <img align="center" height="45" width="45" src="https://freepngimg.com/thumb/penguin/75902-tux-kernel-racer-penguins-linux-penguin.png">
   
   <img align="right"  height="150" width="150" src="https://cdn.discordapp.com/attachments/851880247614767124/871425731119415326/ezgif.com-gif-maker.gif">
